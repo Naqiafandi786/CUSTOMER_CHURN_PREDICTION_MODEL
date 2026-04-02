@@ -59,7 +59,8 @@ Unlike basic ML projects, this system goes beyond prediction:
 
 1. Clone the repo
 
-git clone https://github.com/Naqiafandi786/churn-project.git
+https://github.com/Naqiafandi786/CUSTOMER_CHURN_PREDICTION_MODEL.git
+
 cd churn-project
 
 2. Install dependencies
