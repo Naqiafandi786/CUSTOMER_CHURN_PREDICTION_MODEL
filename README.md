@@ -59,7 +59,7 @@ Unlike basic ML projects, this system goes beyond prediction:
 
 1. Clone the repo
 
-git clone https://github.com/your-username/churn-project.git
+git clone https://github.com/Naqiafandi786/churn-project.git
 cd churn-project
 
 2. Install dependencies
@@ -84,10 +84,9 @@ streamlit run app/churn_app.py
 
 👨‍💻 Author
 
-🔗 Author
-Naqi Afandi
-📧 alinaqiafandi@gmail.com
-🌐 LinkedIn | 💻 GitHub
+*Naqi Afandi*  
+📧 alinaqiafandi@gmail.com  
+🌐 [LinkedIn](www.linkedin.com/in/naqi-afandi) | 💻 [GitHub](https://github.com/Naqiafandi786)
 ---
 
 ⭐ Final Note
