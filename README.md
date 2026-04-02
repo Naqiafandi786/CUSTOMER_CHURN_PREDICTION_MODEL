@@ -82,19 +82,12 @@ streamlit run app/churn_app.py
 
 ---
 
-📌 Future Improvements
-
-- Integration with real-time databases
-- API-based deployment
-- Advanced models (XGBoost, Deep Learning)
-- Real-time dashboards
-
----
-
 👨‍💻 Author
 
-Ali Naqi
-
+🔗 Author
+Naqi Afandi
+📧 alinaqiafandi@gmail.com
+🌐 LinkedIn | 💻 GitHub
 ---
 
 ⭐ Final Note
