@@ -37,6 +37,7 @@ model = joblib.load(model_path)
 features = joblib.load(feature_path)
 
 st.success("✅ App Loaded Successfully")
+
 # ---------------- SESSION ----------------
 st.session_state.setdefault("page", "input")
 
