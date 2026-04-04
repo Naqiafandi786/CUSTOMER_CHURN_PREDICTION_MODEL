@@ -28,10 +28,15 @@ def load_model():
 
 model, features = load_model()
 # ---------------- LOAD ----------------
-BASE = os.path.dirname(__file__)
-model = joblib.load(os.path.join(BASE, "../models/rf_churn_model.joblib"))
-features = joblib.load(os.path.join(BASE, "../models/feature_columns.joblib"))
+BASE = os.path.dirname(os.path.abspath(_file_))
 
+model_path = os.path.abspath(os.path.join(BASE, "..", "models", "rf_churn_model.joblib"))
+feature_path = os.path.abspath(os.path.join(BASE, "..", "models", "feature_columns.joblib"))
+
+model = joblib.load(model_path)
+features = joblib.load(feature_path)
+
+st.success("✅ App Loaded Successfully")
 # ---------------- SESSION ----------------
 st.session_state.setdefault("page", "input")
 
