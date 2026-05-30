@@ -1,0 +1,7 @@
+[server]
+fileWatcherType = "none"
+runOnSave = false
+folderWatchBlacklist = ["DATA", "models", "notebooks", "__pycache__"]
+
+[browser]
+gatherUsageStats = false
