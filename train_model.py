@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # -------------------------------
 # TRAIN TELCO CUSTOMER CHURN MODEL
 # -------------------------------
@@ -88,7 +88,6 @@ joblib.dump(rf, "models/rf_churn_model.joblib")
 joblib.dump(list(X.columns), "models/feature_columns.joblib")
 
 print("\n✅ Model training complete and saved successfully!")
-=======
 # -------------------------------
 # TRAIN TELCO CUSTOMER CHURN MODEL
 # -------------------------------
@@ -172,4 +171,3 @@ joblib.dump(rf, "models/rf_churn_model.joblib")
 joblib.dump(list(X.columns), "models/feature_columns.joblib")
 
 print("\n✅ Model training complete and saved successfully!")
->>>>>>> 50f706b1a71395fc43ecb25b5d74d040cf92eda3
