@@ -1,6 +1,6 @@
-📊 AI Customer Churn Prediction System
+AI Customer Churn Prediction Model
 
-🚀 Project Overview
+Project Overview
 
 Customer churn is one of the biggest challenges for businesses. Losing customers directly impacts revenue and growth.
 
@@ -8,19 +8,19 @@ This project is an AI-powered churn prediction system that not only predicts whe
 
 ---
 
-💡 What makes this project special?
+* What makes this project special?
 
 Unlike basic ML projects, this system goes beyond prediction:
 
-- 🔮 Predicts churn probability using Machine Learning
-- 🧠 Generates business-friendly insights
-- 💼 Suggests retention strategies
-- 📊 Displays key influencing factors
-- 🌐 Built as an interactive web app using Streamlit
+- Predicts churn probability using Machine Learning
+- Generates business-friendly insights
+- Suggests retention strategies
+- Displays key influencing factors
+- Built as an interactive web app using Streamlit
 
 ---
 
-🧠 Tech Stack
+* Tech Stack
 
 - Python
 - Pandas, NumPy
@@ -30,14 +30,14 @@ Unlike basic ML projects, this system goes beyond prediction:
 
 ---
 
-📂 Dataset
+ Dataset
 
 - Telco Customer Churn Dataset
 - Contains customer demographics, services, billing info, and churn status
 
 ---
 
-⚙️ How it works
+* How it works
 
 1. Data cleaning & preprocessing
 2. Feature engineering (NumServices, tenure groups, etc.)
@@ -47,7 +47,7 @@ Unlike basic ML projects, this system goes beyond prediction:
 
 ---
 
-📈 Model Performance
+* Model Performance
 
 - ROC-AUC: ~0.83
 - Balanced precision and recall
@@ -55,7 +55,7 @@ Unlike basic ML projects, this system goes beyond prediction:
 
 ---
 
-🖥️ Running the Project Locally
+* Running the Project Locally
 
 1. Clone the repo
 
@@ -73,17 +73,17 @@ streamlit run app/churn_app.py
 
 ---
 
-🎯 Features of the App
+* Features of the App
 
-- 📊 Churn probability prediction
-- ⚠️ Risk classification (High / Low)
-- 🧠 AI-based business insights
-- 💡 Recommended retention strategies
-- 🔎 Top influencing factors
+-  Churn probability prediction
+-  Risk classification (High / Low)
+-  AI-based business insights
+-  Recommended retention strategies
+-  Top influencing factors
 
 ---
 
-👨‍💻 Author
+* Author
 
 *Naqi Afandi*  
 📧 alinaqiafandi@gmail.com  
